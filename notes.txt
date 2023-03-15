@@ -1,0 +1,30 @@
+git - local
+
+-> local repo maintain
+
+github - remote / server
+
+-> remote repo
+
+
+local -> in pc
+remote -> on github
+
+remote repo -> local create
+local create -> remote create
+
+local / remote changes (version control)
+-----------------------------------------
+changes divided into phases
+1. unstaged phase  👉 
+2. staged phase 🎟️
+3. commited phase
+4. remote phase
+
+
+commands
+-----------
+
+1. git init -> local
+2. git remote add origin "remote repo link .git" -> connection
+3. 
