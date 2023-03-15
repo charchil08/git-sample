@@ -18,8 +18,8 @@ local / remote changes (version control)
 changes divided into phases
 1. unstaged phase  👉 
 2. staged phase 🎟️
-3. commited phase
-4. remote phase
+3. commited phase 🚌
+4. remote phase 🛣️
 
 
 commands
@@ -27,4 +27,6 @@ commands
 
 1. git init -> local
 2. git remote add origin "remote repo link .git" -> connection
-3. 
+3. git add filesname 
+4. git commit -m "message"
+5. git push origin main
